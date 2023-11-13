@@ -1,0 +1,3596 @@
+[
+    {
+        "titulo": "To Kill a Mockingbird",
+        "autor": "Harper Lee",
+        "fecha": "July 11, 1960",
+        "precio": "11.99",
+        "calificacion": "4.26",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Harry Potter and the Philosopher\u2019s Stone",
+        "autor": "J.K. Rowling",
+        "fecha": "June 26, 1997",
+        "precio": "0.00",
+        "calificacion": "4.47",
+        "generos": [
+            "Fiction",
+            "Young Adult",
+            "Magic"
+        ]
+    },
+    {
+        "titulo": "Pride and Prejudice",
+        "autor": "Jane Austen",
+        "fecha": "January 28, 1813",
+        "precio": "0.99",
+        "calificacion": "4.28",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Diary of a Young Girl",
+        "autor": "Anne Frank",
+        "fecha": "January 1, 1947",
+        "precio": "2.51",
+        "calificacion": "4.19",
+        "generos": [
+            "Classics",
+            "Nonfiction",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "Animal Farm",
+        "autor": "George Orwell",
+        "fecha": "August 17, 1945",
+        "precio": "0.00",
+        "calificacion": "3.98",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Dystopia"
+        ]
+    },
+    {
+        "titulo": "The Little Prince",
+        "autor": "Antoine de Saint-Exup\u00e9ry",
+        "fecha": "April 6, 1943",
+        "precio": "1.80",
+        "calificacion": "4.32",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "fecha": "June 8, 1949",
+        "precio": "0.00",
+        "calificacion": "4.19",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "The Great Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "fecha": "April 10, 1925",
+        "precio": "1.99",
+        "calificacion": "3.93",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "School"
+        ]
+    },
+    {
+        "titulo": "The Catcher in the Rye",
+        "autor": "J.D. Salinger",
+        "fecha": "July 16, 1951",
+        "precio": "9.99",
+        "calificacion": "3.80",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "The Lord of the Rings",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "October 20, 1955",
+        "precio": "15.99",
+        "calificacion": "4.52",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Book Thief",
+        "autor": "Markus Zusak",
+        "fecha": "March 1, 2005",
+        "precio": "10.99",
+        "calificacion": "4.39",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "Jane Eyre",
+        "autor": "Charlotte Bront\u00eb",
+        "fecha": "October 16, 1847",
+        "precio": "0.99",
+        "calificacion": "4.15",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Chronicles of Narnia",
+        "autor": "C.S. Lewis",
+        "fecha": "January 1, 1956",
+        "precio": "39.99",
+        "calificacion": "4.27",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Lord of the Flies",
+        "autor": "William Golding",
+        "fecha": "September 17, 1954",
+        "precio": "9.99",
+        "calificacion": "3.69",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "Romeo and Juliet",
+        "autor": "William Shakespeare",
+        "fecha": "January 1, 1597",
+        "precio": "0.99",
+        "calificacion": "3.74",
+        "generos": [
+            "Classics",
+            "Plays",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Harry Potter and the Deathly Hallows",
+        "autor": "J.K. Rowling",
+        "fecha": "July 21, 2007",
+        "precio": "0.00",
+        "calificacion": "4.62",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Magic"
+        ]
+    },
+    {
+        "titulo": "The Kite Runner",
+        "autor": "Khaled Hosseini",
+        "fecha": "May 29, 2003",
+        "precio": "13.99",
+        "calificacion": "4.34",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Giver",
+        "autor": "Lois Lowry",
+        "fecha": "April 26, 1993",
+        "precio": "0.00",
+        "calificacion": "4.12",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Giving Tree",
+        "autor": "Shel Silverstein",
+        "fecha": "January 1, 1964",
+        "precio": "0.00",
+        "calificacion": "4.38",
+        "generos": [
+            "Childrens",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Charlotte's Web",
+        "autor": "E.B. White",
+        "fecha": "October 15, 1952",
+        "precio": "7.99",
+        "calificacion": "4.20",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "Little Women",
+        "autor": "Louisa May Alcott",
+        "fecha": "January 1, 1868",
+        "precio": "2.99",
+        "calificacion": "4.14",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Hunger Games",
+        "autor": "Suzanne Collins",
+        "fecha": "September 14, 2008",
+        "precio": "0.00",
+        "calificacion": "4.33",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "The Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "September 21, 1937",
+        "precio": "0.00",
+        "calificacion": "4.28",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Of Mice and Men",
+        "autor": "John Steinbeck",
+        "fecha": "ary 25, 1937",
+        "precio": "8.99",
+        "calificacion": "3.88",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "School"
+        ]
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "fecha": "October 19, 1953",
+        "precio": "12.99",
+        "calificacion": "3.97",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "Green Eggs and Ham",
+        "autor": "Dr. Seuss",
+        "fecha": "June 1, 1960",
+        "precio": "7.99",
+        "calificacion": "4.31",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Harry Potter and the Prisoner of Azkaban",
+        "autor": "J.K. Rowling",
+        "fecha": "July 8, 1999",
+        "precio": "0.00",
+        "calificacion": "4.58",
+        "generos": [
+            "Young Adult",
+            "Childrens",
+            "Middle Grade"
+        ]
+    },
+    {
+        "titulo": "Wuthering Heights",
+        "autor": "Emily Bront\u00eb",
+        "fecha": "December 1, 1847",
+        "precio": "3.22",
+        "calificacion": "3.88",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "Alice's Adventures in Wonderland / Through the Looking-Glass",
+        "autor": "Lewis Carroll",
+        "fecha": "December 27, 1871",
+        "precio": "0.99",
+        "calificacion": "4.06",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Picture of Dorian Gray",
+        "autor": "Oscar Wilde",
+        "fecha": "June 1, 1890",
+        "precio": "1.99",
+        "calificacion": "4.12",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "titulo": "Night",
+        "autor": "Elie Wiesel",
+        "fecha": "January 1, 1956",
+        "precio": "11.99",
+        "calificacion": "4.37",
+        "generos": [
+            "Nonfiction",
+            "Classics",
+            "History"
+        ]
+    },
+    {
+        "titulo": "Gone with the Wind",
+        "autor": "Margaret Mitchell",
+        "fecha": "June 30, 1936",
+        "precio": "6.99",
+        "calificacion": "4.31",
+        "generos": [
+            "Classics",
+            "Historical Fiction",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Holy Bible: King James Version",
+        "autor": "Anonymous",
+        "fecha": "January 1, 1569",
+        "precio": "0.00",
+        "calificacion": "4.43",
+        "generos": [
+            "Religion",
+            "Nonfiction",
+            "Christian"
+        ]
+    },
+    {
+        "titulo": "Harry Potter and the Goblet of Fire",
+        "autor": "J.K. Rowling",
+        "fecha": "July 8, 2000",
+        "precio": "0.00",
+        "calificacion": "4.56",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Magic"
+        ]
+    },
+    {
+        "titulo": "The Hitchhiker's Guide to the Galaxy",
+        "autor": "Douglas Adams",
+        "fecha": "October 12, 1979",
+        "precio": "7.99",
+        "calificacion": "4.23",
+        "generos": [
+            "Science Fiction",
+            "Fiction",
+            "Humor"
+        ]
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "fecha": "January 1, 1601",
+        "precio": "3.99",
+        "calificacion": "4.02",
+        "generos": [
+            "Classics",
+            "Plays",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Harry Potter and the Half-Blood Prince",
+        "autor": "J.K. Rowling",
+        "fecha": "July 16, 2005",
+        "precio": "0.00",
+        "calificacion": "4.58",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Adventures of Huckleberry Finn",
+        "autor": "Mark Twain",
+        "fecha": "ary 18, 1884",
+        "precio": "3.09",
+        "calificacion": "3.83",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Tolkien On Fairy-stories",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "July 1, 2008",
+        "precio": 0,
+        "calificacion": "4.32",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Essays"
+        ]
+    },
+    {
+        "titulo": "Les Mis\u00e9rables",
+        "autor": "Victor Hugo",
+        "fecha": "January 1, 1862",
+        "precio": "7.99",
+        "calificacion": "4.20",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Alchemist",
+        "autor": "Paulo Coelho",
+        "fecha": "January 1, 1988",
+        "precio": "14.99",
+        "calificacion": "3.90",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Brave New World / Brave New World Revisited",
+        "autor": "Aldous Huxley",
+        "fecha": "January 1, 1958",
+        "precio": "14.24",
+        "calificacion": "4.16",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "Crime and Punishment",
+        "autor": "Fyodor Dostoevsky",
+        "fecha": "January 1, 1866",
+        "precio": "7.99",
+        "calificacion": "4.26",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Russia"
+        ]
+    },
+    {
+        "titulo": "The Help",
+        "autor": "Kathryn Stockett",
+        "fecha": "ary 10, 2009",
+        "precio": "14.99",
+        "calificacion": "4.47",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Historical"
+        ]
+    },
+    {
+        "titulo": "The Secret Garden",
+        "autor": "Frances Hodgson Burnett",
+        "fecha": "August 1, 1911",
+        "precio": "5.99",
+        "calificacion": "4.15",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "Memoirs of a Geisha",
+        "autor": "Arthur Golden",
+        "fecha": "January 1, 1997",
+        "precio": "12.99",
+        "calificacion": "4.15",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Lion, the Witch and the Wardrobe",
+        "autor": "C.S. Lewis",
+        "fecha": "October 16, 1950",
+        "precio": "6.49",
+        "calificacion": "4.23",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Odyssey",
+        "autor": "Homer",
+        "fecha": "January 1, 701",
+        "precio": "5.99",
+        "calificacion": "3.80",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Poetry"
+        ]
+    },
+    {
+        "titulo": "A Christmas Carol",
+        "autor": "Charles Dickens",
+        "fecha": "December 17, 1843",
+        "precio": "1.99",
+        "calificacion": "4.07",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Christmas"
+        ]
+    },
+    {
+        "titulo": "The Cat in the Hat",
+        "autor": "Dr. Seuss",
+        "fecha": "March 12, 1957",
+        "precio": "7.99",
+        "calificacion": "4.18",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Outsiders",
+        "autor": "S.E. Hinton",
+        "fecha": "April 24, 1967",
+        "precio": "8.99",
+        "calificacion": "4.12",
+        "generos": [
+            "Classics",
+            "Young Adult",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "One Hundred Years of Solitude",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "fecha": "May 1, 1967",
+        "precio": "30.00",
+        "calificacion": "4.11",
+        "generos": [
+            "Fiction",
+            "Magical Realism",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "A Thousand Splendid Suns",
+        "autor": "Khaled Hosseini",
+        "fecha": "May 1, 2007",
+        "precio": "12.99",
+        "calificacion": "4.43",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "The Grapes of Wrath",
+        "autor": "John Steinbeck",
+        "fecha": "April 14, 1939",
+        "precio": "10.99",
+        "calificacion": "4.00",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Anne of Green Gables",
+        "autor": "L.M. Montgomery",
+        "fecha": "January 1, 1908",
+        "precio": "1.99",
+        "calificacion": "4.30",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "Where the Sidewalk Ends",
+        "autor": "Shel Silverstein",
+        "fecha": "January 1, 1974",
+        "precio": "0.00",
+        "calificacion": "4.33",
+        "generos": [
+            "Poetry",
+            "Childrens",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Count of Monte Cristo",
+        "autor": "Alexandre Dumas",
+        "fecha": "August 28, 1844",
+        "precio": "1.99",
+        "calificacion": "4.29",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Ender\u2019s Game",
+        "autor": "Orson Scott Card",
+        "fecha": "January 15, 1985",
+        "precio": "0.00",
+        "calificacion": "4.31",
+        "generos": [
+            "Science Fiction",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "Where the Wild Things Are",
+        "autor": "Maurice Sendak",
+        "fecha": "April 9, 1963",
+        "precio": 0,
+        "calificacion": "4.24",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Color Purple",
+        "autor": "Alice Walker",
+        "fecha": "June 1, 1982",
+        "precio": "0.00",
+        "calificacion": "4.26",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Feminism"
+        ]
+    },
+    {
+        "titulo": "The Adventures of Tom Sawyer",
+        "autor": "Mark Twain",
+        "fecha": "June 1, 1876",
+        "precio": "0.99",
+        "calificacion": "3.92",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "titulo": "A Tale of Two Cities",
+        "autor": "Charles Dickens",
+        "fecha": "November 26, 1859",
+        "precio": "1.99",
+        "calificacion": "3.87",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Life of Pi",
+        "autor": "Yann Martel",
+        "fecha": "September 11, 2001",
+        "precio": "0.00",
+        "calificacion": "3.93",
+        "generos": [
+            "Fiction",
+            "Fantasy",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Handmaid\u2019s Tale",
+        "autor": "Margaret Atwood",
+        "fecha": "January 1, 1985",
+        "precio": "0.00",
+        "calificacion": "4.13",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Dystopia"
+        ]
+    },
+    {
+        "titulo": "One Flew Over the Cuckoo's Nest",
+        "autor": "Ken Kesey",
+        "fecha": "January 1, 1962",
+        "precio": "9.99",
+        "calificacion": "4.20",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Psychology"
+        ]
+    },
+    {
+        "titulo": "Frankenstein: The 1818 Text",
+        "autor": "Mary Wollstonecraft Shelley",
+        "fecha": "January 1, 1818",
+        "precio": "3.60",
+        "calificacion": "3.86",
+        "generos": [
+            "Classics",
+            "Horror",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Oh, the Places You'll Go!",
+        "autor": "Dr. Seuss",
+        "fecha": "January 22, 1990",
+        "precio": "9.99",
+        "calificacion": "4.36",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Anna Karenina",
+        "autor": "Leo Tolstoy",
+        "fecha": "January 1, 1878",
+        "precio": "0.99",
+        "calificacion": "4.09",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "Tuesdays with Morrie",
+        "autor": "Mitch Albom",
+        "fecha": "August 18, 1997",
+        "precio": "11.99",
+        "calificacion": "4.16",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "Winnie-the-Pooh",
+        "autor": "A.A. Milne",
+        "fecha": "October 14, 1926",
+        "precio": "0.99",
+        "calificacion": "4.35",
+        "generos": [
+            "Childrens",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Slaughterhouse-Five",
+        "autor": "Kurt Vonnegut Jr.",
+        "fecha": "March 31, 1969",
+        "precio": "9.99",
+        "calificacion": "4.09",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "The Old Man and the Sea",
+        "autor": "Ernest Hemingway",
+        "fecha": "January 1, 1952",
+        "precio": "10.99",
+        "calificacion": "3.80",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Catch-22",
+        "autor": "Joseph Heller",
+        "fecha": "November 10, 1961",
+        "precio": "12.99",
+        "calificacion": "3.99",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Scarlet Letter",
+        "autor": "Nathaniel Hawthorne",
+        "fecha": "March 16, 1850",
+        "precio": "3.65",
+        "calificacion": "3.43",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Macbeth",
+        "autor": "William Shakespeare",
+        "fecha": "January 1, 1623",
+        "precio": "2.99",
+        "calificacion": "3.90",
+        "generos": [
+            "Classics",
+            "Plays",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Fellowship of the Ring",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "July 29, 1954",
+        "precio": "0.00",
+        "calificacion": "4.39",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Twilight",
+        "autor": "Stephenie Meyer",
+        "fecha": "October 5, 2005",
+        "precio": "10.99",
+        "calificacion": "3.64",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "fecha": "September 1, 1955",
+        "precio": "12.99",
+        "calificacion": "3.88",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "The Metamorphosis",
+        "autor": "Franz Kafka",
+        "fecha": "January 1, 1915",
+        "precio": "1.99",
+        "calificacion": "3.85",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "The Stranger",
+        "autor": "Albert Camus",
+        "fecha": "May 19, 1942",
+        "precio": "8.99",
+        "calificacion": "4.02",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "Siddhartha",
+        "autor": "Hermann Hesse",
+        "fecha": "January 1, 1922",
+        "precio": "3.99",
+        "calificacion": "4.06",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "The Time Traveler's Wife",
+        "autor": "Audrey Niffenegger",
+        "fecha": "January 1, 2003",
+        "precio": "8.99",
+        "calificacion": "3.99",
+        "generos": [
+            "Fiction",
+            "Romance",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Goodnight Moon",
+        "autor": "Margaret Wise Brown",
+        "fecha": "September 3, 1947",
+        "precio": "0.00",
+        "calificacion": "4.30",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Harry Potter and the Chamber of Secrets",
+        "autor": "J.K. Rowling",
+        "fecha": "July 2, 1998",
+        "precio": "0.00",
+        "calificacion": "4.43",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "War and Peace",
+        "autor": "Leo Tolstoy",
+        "fecha": "January 1, 1867",
+        "precio": "0.00",
+        "calificacion": "4.16",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "A Tree Grows in Brooklyn",
+        "autor": "Betty  Smith",
+        "fecha": "August 18, 1943",
+        "precio": "14.99",
+        "calificacion": "4.29",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Little House Collection",
+        "autor": "Laura Ingalls Wilder",
+        "fecha": "January 1, 1971",
+        "precio": "6.99",
+        "calificacion": "4.35",
+        "generos": [
+            "Classics",
+            "Historical Fiction",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "A Clockwork Orange",
+        "autor": "Anthony Burgess",
+        "fecha": "January 1, 1962",
+        "precio": "6.99",
+        "calificacion": "4.00",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "All Quiet on the Western Front",
+        "autor": "Erich Maria Remarque",
+        "fecha": "January 1, 1928",
+        "precio": "10.99",
+        "calificacion": "4.06",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Stand",
+        "autor": "Stephen King",
+        "fecha": "January 1, 1978",
+        "precio": "9.99",
+        "calificacion": "4.35",
+        "generos": [
+            "Horror",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Don Quixote",
+        "autor": "Miguel de Cervantes Saavedra",
+        "fecha": "January 1, 1605",
+        "precio": "2.99",
+        "calificacion": "3.89",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Uncle Tom's Cabin",
+        "autor": "Harriet Beecher Stowe",
+        "fecha": "January 1, 1852",
+        "precio": "0.00",
+        "calificacion": "3.90",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",
+        "autor": "Anonymous",
+        "fecha": "March 18, 632",
+        "precio": "9.99",
+        "calificacion": "4.38",
+        "generos": [
+            "Religion",
+            "Islam",
+            "Nonfiction"
+        ]
+    },
+    {
+        "titulo": "Atlas Shrugged",
+        "autor": "Ayn Rand",
+        "fecha": "October 10, 1957",
+        "precio": "9.99",
+        "calificacion": "3.69",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "The Brothers Karamazov",
+        "autor": "Fyodor Dostoevsky",
+        "fecha": "January 1, 1880",
+        "precio": "3.99",
+        "calificacion": "4.36",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Russia"
+        ]
+    },
+    {
+        "titulo": "The Poisonwood Bible",
+        "autor": "Barbara Kingsolver",
+        "fecha": "September 24, 1998",
+        "precio": "14.49",
+        "calificacion": "4.09",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Africa"
+        ]
+    },
+    {
+        "titulo": "I Know Why the Caged Bird Sings",
+        "autor": "Maya Angelou",
+        "fecha": "January 1, 1969",
+        "precio": "4.99",
+        "calificacion": "4.29",
+        "generos": [
+            "Nonfiction",
+            "Classics",
+            "Memoir"
+        ]
+    },
+    {
+        "titulo": "Moby-Dick or, The Whale",
+        "autor": "Herman Melville",
+        "fecha": "October 18, 1851",
+        "precio": "0.99",
+        "calificacion": "3.54",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "The Book of Mormon: Another Testament of Jesus Christ",
+        "autor": "Joseph Smith Jr.",
+        "fecha": "December 31, 2009",
+        "precio": "3.00",
+        "calificacion": "4.25",
+        "generos": [
+            "Religion",
+            "Nonfiction",
+            "Lds"
+        ]
+    },
+    {
+        "titulo": "The Da Vinci Code",
+        "autor": "Dan Brown",
+        "fecha": "March 18, 2003",
+        "precio": "9.99",
+        "calificacion": "3.91",
+        "generos": [
+            "Fiction",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "titulo": "Great Expectations",
+        "autor": "Charles Dickens",
+        "fecha": "December 1, 1860",
+        "precio": "4.99",
+        "calificacion": "3.79",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "The Good Earth",
+        "autor": "Pearl S. Buck",
+        "fecha": "March 2, 1931",
+        "precio": "0.00",
+        "calificacion": "4.00",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
+        "autor": "Corrie ten Boom",
+        "fecha": "January 1, 1971",
+        "precio": "8.35",
+        "calificacion": "4.45",
+        "generos": [
+            "Nonfiction",
+            "Biography",
+            "History"
+        ]
+    },
+    {
+        "titulo": "Dracula",
+        "autor": "Bram Stoker",
+        "fecha": "May 26, 1897",
+        "precio": "2.99",
+        "calificacion": "4.01",
+        "generos": [
+            "Classics",
+            "Horror",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "A Wrinkle in Time",
+        "autor": "Madeleine L'Engle",
+        "fecha": "January 1, 1962",
+        "precio": "11.99",
+        "calificacion": "3.98",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Fault in Our Stars",
+        "autor": "John Green",
+        "fecha": "January 10, 2012",
+        "precio": "9.99",
+        "calificacion": "4.14",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "Matilda",
+        "autor": "Roald Dahl",
+        "fecha": "October 1, 1988",
+        "precio": "7.99",
+        "calificacion": "4.33",
+        "generos": [
+            "Childrens",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Perks of Being a Wallflower",
+        "autor": "Stephen Chbosky",
+        "fecha": "ary 1, 1999",
+        "precio": "11.99",
+        "calificacion": "4.23",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Coming Of Age"
+        ]
+    },
+    {
+        "titulo": "Brave New World",
+        "autor": "Aldous Huxley",
+        "fecha": "January 1, 1932",
+        "precio": "4.99",
+        "calificacion": "3.99",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "Sense and Sensibility",
+        "autor": "Jane Austen",
+        "fecha": "October 30, 1811",
+        "precio": "0.99",
+        "calificacion": "4.08",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Princess Bride",
+        "autor": "William Goldman",
+        "fecha": "September 1, 1973",
+        "precio": "10.99",
+        "calificacion": "4.27",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Iliad",
+        "autor": "Homer",
+        "fecha": "January 1, 701",
+        "precio": "3.99",
+        "calificacion": "3.90",
+        "generos": [
+            "Classics",
+            "Poetry",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "East of Eden",
+        "autor": "John Steinbeck",
+        "fecha": "January 1, 1952",
+        "precio": "12.99",
+        "calificacion": "4.41",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Where the Red Fern Grows",
+        "autor": "Wilson Rawls",
+        "fecha": "January 1, 1961",
+        "precio": "8.99",
+        "calificacion": "4.11",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "The Tell-Tale Heart and Other Writings",
+        "autor": "Edgar Allan Poe",
+        "fecha": "January 1, 1843",
+        "precio": "1.99",
+        "calificacion": "4.19",
+        "generos": [
+            "Classics",
+            "Horror",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Man's Search for Meaning",
+        "autor": "Viktor E. Frankl",
+        "fecha": "January 1, 1959",
+        "precio": "9.99",
+        "calificacion": "4.37",
+        "generos": [
+            "Nonfiction",
+            "Psychology",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "The Lorax",
+        "autor": "Dr. Seuss",
+        "fecha": "January 1, 1971",
+        "precio": "9.99",
+        "calificacion": "4.34",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Catching Fire",
+        "autor": "Suzanne Collins",
+        "fecha": "September 1, 2009",
+        "precio": "0.00",
+        "calificacion": "4.32",
+        "generos": [
+            "Young Adult",
+            "Dystopia",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "A Game of Thrones",
+        "autor": "George R.R. Martin",
+        "fecha": "August 6, 1996",
+        "precio": "6.99",
+        "calificacion": "4.44",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "titulo": "The Curious Incident of the Dog in the Night-Time",
+        "autor": "Mark Haddon",
+        "fecha": "July 31, 2003",
+        "precio": "12.99",
+        "calificacion": "3.89",
+        "generos": [
+            "Fiction",
+            "Mystery",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "The Declaration of Independence / The Constitution of the United States",
+        "autor": "Founding Fathers",
+        "fecha": "January 1, 1776",
+        "precio": "1.99",
+        "calificacion": "4.44",
+        "generos": [
+            "History",
+            "Nonfiction",
+            "Politics"
+        ]
+    },
+    {
+        "titulo": "Watership Down",
+        "autor": "Richard  Adams",
+        "fecha": "November 1, 1972",
+        "precio": "13.99",
+        "calificacion": "4.08",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "The Bell Jar",
+        "autor": "Sylvia Plath",
+        "fecha": "January 1, 1963",
+        "precio": "0.00",
+        "calificacion": "4.05",
+        "generos": [
+            "Fiction",
+            "Feminism",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Charlie and the Chocolate Factory",
+        "autor": "Roald Dahl",
+        "fecha": "January 17, 1964",
+        "precio": "7.99",
+        "calificacion": "4.16",
+        "generos": [
+            "Fiction",
+            "Fantasy",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "Rebecca",
+        "autor": "Daphne du Maurier",
+        "fecha": "August 1, 1938",
+        "precio": "10.99",
+        "calificacion": "4.24",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Mystery"
+        ]
+    },
+    {
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "fecha": "June 1, 1965",
+        "precio": "9.99",
+        "calificacion": "4.26",
+        "generos": [
+            "Science Fiction",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "The Last Lecture",
+        "autor": "Randy Pausch",
+        "fecha": "April 8, 2008",
+        "precio": "11.99",
+        "calificacion": "4.26",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "And Then There Were None",
+        "autor": "Agatha Christie",
+        "fecha": "November 6, 1939",
+        "precio": "9.99",
+        "calificacion": "4.28",
+        "generos": [
+            "Mystery",
+            "Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "titulo": "The Velveteen Rabbit",
+        "autor": "Margery Williams Bianco",
+        "fecha": "January 1, 1922",
+        "precio": "2.99",
+        "calificacion": "4.30",
+        "generos": [
+            "Classics",
+            "Childrens",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Fountainhead",
+        "autor": "Ayn Rand",
+        "fecha": "April 15, 1943",
+        "precio": "9.99",
+        "calificacion": "3.88",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "The Lovely Bones",
+        "autor": "Alice Sebold",
+        "fecha": "July 3, 2002",
+        "precio": "0.00",
+        "calificacion": "3.85",
+        "generos": [
+            "Fiction",
+            "Mystery",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "Alice in Wonderland",
+        "autor": "Jane Carruth",
+        "fecha": "January 1, 1865",
+        "precio": "1.00",
+        "calificacion": "4.03",
+        "generos": [
+            "Classics",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Call of the Wild",
+        "autor": "Jack London",
+        "fecha": "January 1, 1903",
+        "precio": "1.69",
+        "calificacion": "3.90",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "titulo": "The Girl with the Dragon Tattoo",
+        "autor": "Stieg Larsson",
+        "fecha": "August 1, 2005",
+        "precio": "6.99",
+        "calificacion": "4.16",
+        "generos": [
+            "Fiction",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "titulo": "The Return of the King",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "October 20, 1955",
+        "precio": "12.99",
+        "calificacion": "4.56",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Animal Farm / 1984",
+        "autor": "George Orwell",
+        "fecha": "January 1, 1949",
+        "precio": "14.99",
+        "calificacion": "4.30",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Dystopia"
+        ]
+    },
+    {
+        "titulo": "The Five People You Meet in Heaven",
+        "autor": "Mitch Albom",
+        "fecha": "September 1, 2003",
+        "precio": "11.99",
+        "calificacion": "3.98",
+        "generos": [
+            "Fiction",
+            "Contemporary",
+            "Inspirational"
+        ]
+    },
+    {
+        "titulo": "Perfume: The Story of a Murderer",
+        "autor": "Patrick S\u00fcskind",
+        "fecha": "January 1, 1985",
+        "precio": "9.99",
+        "calificacion": "4.03",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "A Story of Yesterday",
+        "autor": "Sergio Cobo",
+        "fecha": "March 6, 2014",
+        "precio": "3.99",
+        "calificacion": "4.59",
+        "generos": [
+            "Thriller",
+            "Spanish Literature",
+            "European Literature"
+        ]
+    },
+    {
+        "titulo": "Angela's Ashes",
+        "autor": "Frank McCourt",
+        "fecha": "September 5, 1996",
+        "precio": "5.49",
+        "calificacion": "4.14",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "The Wonderful Wizard of Oz",
+        "autor": "L. Frank Baum",
+        "fecha": "May 17, 1900",
+        "precio": "2.59",
+        "calificacion": "4.00",
+        "generos": [
+            "Classics",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Two Towers",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "November 11, 1954",
+        "precio": "12.99",
+        "calificacion": "4.48",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Love You Forever",
+        "autor": "Robert Munsch",
+        "fecha": "January 1, 1986",
+        "precio": "4.73",
+        "calificacion": "4.37",
+        "generos": [
+            "Picture Books",
+            "Childrens",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Bridge to Terabithia",
+        "autor": "Katherine Paterson",
+        "fecha": "October 21, 1977",
+        "precio": "0.00",
+        "calificacion": "4.04",
+        "generos": [
+            "Fiction",
+            "Young Adult",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Divine Comedy",
+        "autor": "Dante Alighieri",
+        "fecha": "January 1, 1320",
+        "precio": "6.99",
+        "calificacion": "4.07",
+        "generos": [
+            "Classics",
+            "Poetry",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Road",
+        "autor": "Cormac McCarthy",
+        "fecha": "September 26, 2006",
+        "precio": "12.99",
+        "calificacion": "3.99",
+        "generos": [
+            "Fiction",
+            "Science Fiction",
+            "Dystopia"
+        ]
+    },
+    {
+        "titulo": "A Prayer for Owen Meany",
+        "autor": "John Irving",
+        "fecha": "March 28, 1989",
+        "precio": "0.00",
+        "calificacion": "4.24",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "A Midsummer Night's Dream",
+        "autor": "William Shakespeare",
+        "fecha": "January 1, 1595",
+        "precio": "0.99",
+        "calificacion": "3.95",
+        "generos": [
+            "Classics",
+            "Plays",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Persuasion",
+        "autor": "Jane Austen",
+        "fecha": "December 20, 1817",
+        "precio": "1.99",
+        "calificacion": "4.15",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Name of the Rose",
+        "autor": "Umberto Eco",
+        "fecha": "January 1, 1980",
+        "precio": "7.99",
+        "calificacion": "4.14",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Mystery"
+        ]
+    },
+    {
+        "titulo": "The Prophet",
+        "autor": "Kahlil Gibran",
+        "fecha": "January 1, 1923",
+        "precio": "3.99",
+        "calificacion": "4.23",
+        "generos": [
+            "Poetry",
+            "Classics",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "The Three Musketeers",
+        "autor": "Alexandre Dumas",
+        "fecha": "January 1, 1844",
+        "precio": "0.99",
+        "calificacion": "4.09",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Golden Compass",
+        "autor": "Philip Pullman",
+        "fecha": "July 1, 1995",
+        "precio": "8.99",
+        "calificacion": "4.02",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Water for Elephants",
+        "autor": "Sara Gruen",
+        "fecha": "May 22, 2006",
+        "precio": "11.99",
+        "calificacion": "4.11",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Boy in the Striped Pajamas",
+        "autor": "John Boyne",
+        "fecha": "January 1, 2006",
+        "precio": "6.99",
+        "calificacion": "4.15",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "The Pillars of the Earth",
+        "autor": "Ken Follett",
+        "fecha": "October 1, 1989",
+        "precio": "9.99",
+        "calificacion": "4.33",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Historical"
+        ]
+    },
+    {
+        "titulo": "How the Grinch Stole Christmas!",
+        "autor": "Dr. Seuss",
+        "fecha": "October 12, 1957",
+        "precio": "9.99",
+        "calificacion": "4.37",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Christmas"
+        ]
+    },
+    {
+        "titulo": "Jonathan Livingston Seagull",
+        "autor": "Richard Bach",
+        "fecha": "January 1, 1970",
+        "precio": "10.99",
+        "calificacion": "3.85",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "Oliver Twist",
+        "autor": "Charles Dickens",
+        "fecha": "January 1, 1838",
+        "precio": "3.01",
+        "calificacion": "3.88",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Secret Life of Bees",
+        "autor": "Sue Monk Kidd",
+        "fecha": "November 8, 2001",
+        "precio": "12.99",
+        "calificacion": "4.09",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Notebook",
+        "autor": "Nicholas Sparks",
+        "fecha": "October 1, 1996",
+        "precio": "0.00",
+        "calificacion": "4.14",
+        "generos": [
+            "Romance",
+            "Fiction",
+            "Chick Lit"
+        ]
+    },
+    {
+        "titulo": "The Master and Margarita",
+        "autor": "Mikhail Bulgakov",
+        "fecha": "January 1, 1967",
+        "precio": "9.99",
+        "calificacion": "4.29",
+        "generos": [
+            "Fiction",
+            "Russia",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Mockingjay",
+        "autor": "Suzanne Collins",
+        "fecha": "August 24, 2010",
+        "precio": "0.00",
+        "calificacion": "4.08",
+        "generos": [
+            "Young Adult",
+            "Dystopia",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Complete Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "fecha": "April 1, 1927",
+        "precio": "0.99",
+        "calificacion": "4.50",
+        "generos": [
+            "Classics",
+            "Mystery",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "In Cold Blood",
+        "autor": "Truman Capote",
+        "fecha": "January 1, 1959",
+        "precio": "12.99",
+        "calificacion": "4.08",
+        "generos": [
+            "Nonfiction",
+            "Classics",
+            "True Crime"
+        ]
+    },
+    {
+        "titulo": "The Crucible: A Play in Four Acts",
+        "autor": "Arthur  Miller",
+        "fecha": "May 1, 1946",
+        "precio": "12.99",
+        "calificacion": "3.60",
+        "generos": [
+            "Classics",
+            "Plays",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Red Tent",
+        "autor": "Anita Diamant",
+        "fecha": "January 1, 1997",
+        "precio": "0.00",
+        "calificacion": "4.20",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Historical"
+        ]
+    },
+    {
+        "titulo": "The Shadow of the Wind",
+        "autor": "Carlos Ruiz Zaf\u00f3n",
+        "fecha": "May 1, 2001",
+        "precio": "12.91",
+        "calificacion": "4.29",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Mystery"
+        ]
+    },
+    {
+        "titulo": "Heart of Darkness",
+        "autor": "Joseph Conrad",
+        "fecha": "January 1, 1899",
+        "precio": "1.99",
+        "calificacion": "3.43",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Love in the Time of Cholera",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "fecha": "November 1, 1985",
+        "precio": "9.99",
+        "calificacion": "3.93",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Glass Castle",
+        "autor": "Jeannette Walls",
+        "fecha": "January 1, 2005",
+        "precio": "13.99",
+        "calificacion": "4.31",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "The Gift of the Magi",
+        "autor": "O. Henry",
+        "fecha": "December 10, 1905",
+        "precio": "3.99",
+        "calificacion": "4.10",
+        "generos": [
+            "Classics",
+            "Short Stories",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Eat, Pray, Love",
+        "autor": "Elizabeth Gilbert",
+        "fecha": "ary 16, 2006",
+        "precio": "12.99",
+        "calificacion": "3.62",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Travel"
+        ]
+    },
+    {
+        "titulo": "The Unbearable Lightness of Being",
+        "autor": "Milan Kundera",
+        "fecha": "January 1, 1984",
+        "precio": "12.99",
+        "calificacion": "4.11",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "Interview with the Vampire",
+        "autor": "Anne Rice",
+        "fecha": "April 12, 1976",
+        "precio": "8.99",
+        "calificacion": "4.02",
+        "generos": [
+            "Horror",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Art of War",
+        "autor": "Sun Tzu",
+        "fecha": "January 1, 401",
+        "precio": "0.00",
+        "calificacion": "3.96",
+        "generos": [
+            "Classics",
+            "Nonfiction",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "The Canterbury Tales",
+        "autor": "Geoffrey Chaucer",
+        "fecha": "January 1, 1400",
+        "precio": "3.79",
+        "calificacion": "3.52",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Poetry"
+        ]
+    },
+    {
+        "titulo": "On the Road",
+        "autor": "Jack Kerouac",
+        "fecha": "September 5, 1957",
+        "precio": "12.99",
+        "calificacion": "3.61",
+        "generos": [
+            "Fiction",
+            "Travel",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Aesop's Fables",
+        "autor": "Aesop",
+        "fecha": "January 1, 501",
+        "precio": "6.49",
+        "calificacion": "4.05",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Short Stories"
+        ]
+    },
+    {
+        "titulo": "The Screwtape Letters",
+        "autor": "C.S. Lewis",
+        "fecha": "ary 1, 1942",
+        "precio": "12.49",
+        "calificacion": "4.26",
+        "generos": [
+            "Fiction",
+            "Christian",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "January 1, 1954",
+        "precio": "19.99",
+        "calificacion": "4.61",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Dr. Jekyll and Mr. Hyde",
+        "autor": "Robert Louis Stevenson",
+        "fecha": "January 5, 1886",
+        "precio": "3.00",
+        "calificacion": "3.83",
+        "generos": [
+            "Horror",
+            "Classics",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "The Godfather",
+        "autor": "Mario Puzo",
+        "fecha": "March 10, 1969",
+        "precio": "6.99",
+        "calificacion": "4.38",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Crime"
+        ]
+    },
+    {
+        "titulo": "Fight Club",
+        "autor": "Chuck Palahniuk",
+        "fecha": "August 1, 1996",
+        "precio": "8.61",
+        "calificacion": "4.19",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Thriller"
+        ]
+    },
+    {
+        "titulo": "Walden",
+        "autor": "Henry David Thoreau",
+        "fecha": "August 9, 1854",
+        "precio": "0.00",
+        "calificacion": "3.78",
+        "generos": [
+            "Classics",
+            "Philosophy",
+            "Nonfiction"
+        ]
+    },
+    {
+        "titulo": "Gulliver's Travels",
+        "autor": "Jonathan Swift",
+        "fecha": "January 1, 1726",
+        "precio": "0.99",
+        "calificacion": "3.58",
+        "generos": [
+            "Fiction",
+            "Fantasy",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Robinson Crusoe",
+        "autor": "Daniel Defoe",
+        "fecha": "April 25, 1719",
+        "precio": "0.00",
+        "calificacion": "3.68",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Adventure"
+        ]
+    },
+    {
+        "titulo": "The Origin of Species",
+        "autor": "Charles Darwin",
+        "fecha": "January 1, 1859",
+        "precio": "2.99",
+        "calificacion": "4.01",
+        "generos": [
+            "Science",
+            "Nonfiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Invisible Man",
+        "autor": "Ralph Ellison",
+        "fecha": "April 14, 1952",
+        "precio": "11.99",
+        "calificacion": "3.91",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Emma",
+        "autor": "Jane Austen",
+        "fecha": "December 23, 1815",
+        "precio": "0.99",
+        "calificacion": "4.04",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "The Prince",
+        "autor": "Niccol\u00f2 Machiavelli",
+        "fecha": "January 1, 1513",
+        "precio": "9.99",
+        "calificacion": "3.84",
+        "generos": [
+            "Classics",
+            "Philosophy",
+            "Nonfiction"
+        ]
+    },
+    {
+        "titulo": "Sophie's World",
+        "autor": "Jostein Gaarder",
+        "fecha": "January 1, 1991",
+        "precio": "11.99",
+        "calificacion": "3.96",
+        "generos": [
+            "Philosophy",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Complete Grimm's Fairy Tales",
+        "autor": "Jacob Grimm",
+        "fecha": "December 20, 1812",
+        "precio": "0.99",
+        "calificacion": "4.28",
+        "generos": [
+            "Classics",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Time Machine",
+        "autor": "H.G. Wells",
+        "fecha": "January 1, 1895",
+        "precio": "0.00",
+        "calificacion": "3.90",
+        "generos": [
+            "Classics",
+            "Science Fiction",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Trial",
+        "autor": "Franz Kafka",
+        "fecha": "April 26, 1925",
+        "precio": "0.99",
+        "calificacion": "3.96",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "Watchmen",
+        "autor": "Alan Moore",
+        "fecha": "January 1, 1987",
+        "precio": "9.50",
+        "calificacion": "4.38",
+        "generos": [
+            "Graphic Novels",
+            "Comics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Candide",
+        "autor": "Voltaire",
+        "fecha": "January 1, 1759",
+        "precio": "2.99",
+        "calificacion": "3.76",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Philosophy"
+        ]
+    },
+    {
+        "titulo": "Roots: The Saga of an American Family",
+        "autor": "Alex Haley",
+        "fecha": "August 17, 1976",
+        "precio": "12.99",
+        "calificacion": "4.44",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Beloved",
+        "autor": "Toni Morrison",
+        "fecha": "September 16, 1987",
+        "precio": "12.99",
+        "calificacion": "3.94",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Atonement",
+        "autor": "Ian McEwan",
+        "fecha": "September 20, 2001",
+        "precio": "12.99",
+        "calificacion": "3.93",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Fellowship of the Ring",
+        "autor": "J.R.R. Tolkien",
+        "fecha": "July 29, 1954",
+        "precio": "0.00",
+        "calificacion": "4.39",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Go Ask Alice",
+        "autor": "Beatrice Sparks",
+        "fecha": "January 1, 1971",
+        "precio": "8.99",
+        "calificacion": "3.74",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Tuck Everlasting",
+        "autor": "Natalie Babbitt",
+        "fecha": "January 1, 1975",
+        "precio": "8.99",
+        "calificacion": "3.90",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "My Sister's Keeper",
+        "autor": "Jodi Picoult",
+        "fecha": "April 6, 2004",
+        "precio": "13.99",
+        "calificacion": "4.10",
+        "generos": [
+            "Fiction",
+            "Contemporary",
+            "Chick Lit"
+        ]
+    },
+    {
+        "titulo": "The Things They Carried",
+        "autor": "Tim O'Brien",
+        "fecha": "March 28, 1990",
+        "precio": "9.99",
+        "calificacion": "4.14",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Divergent",
+        "autor": "Veronica Roth",
+        "fecha": "April 25, 2011",
+        "precio": "12.99",
+        "calificacion": "4.15",
+        "generos": [
+            "Young Adult",
+            "Dystopia",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Stranger in a Strange Land",
+        "autor": "Robert A. Heinlein",
+        "fecha": "July 1, 1961",
+        "precio": "6.99",
+        "calificacion": "3.92",
+        "generos": [
+            "Science Fiction",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Sun Also Rises",
+        "autor": "Ernest Hemingway",
+        "fecha": "October 22, 1926",
+        "precio": "0.99",
+        "calificacion": "3.80",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "The Mists of Avalon",
+        "autor": "Marion Zimmer Bradley",
+        "fecha": "December 1, 1982",
+        "precio": "14.99",
+        "calificacion": "4.13",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "Mere Christianity",
+        "autor": "C.S. Lewis",
+        "fecha": "January 1, 1942",
+        "precio": "14.99",
+        "calificacion": "4.35",
+        "generos": [
+            "Christian",
+            "Nonfiction",
+            "Religion"
+        ]
+    },
+    {
+        "titulo": "The Lightning Thief",
+        "autor": "Rick Riordan",
+        "fecha": "July 28, 2005",
+        "precio": "6.99",
+        "calificacion": "4.30",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Mythology"
+        ]
+    },
+    {
+        "titulo": "The Phantom Tollbooth",
+        "autor": "Norton Juster",
+        "fecha": "January 1, 1961",
+        "precio": "8.99",
+        "calificacion": "4.19",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Tale of Peter Rabbit",
+        "autor": "Beatrix Potter",
+        "fecha": "December 16, 1901",
+        "precio": "2.99",
+        "calificacion": "4.21",
+        "generos": [
+            "Childrens",
+            "Classics",
+            "Picture Books"
+        ]
+    },
+    {
+        "titulo": "Murder on the Orient Express",
+        "autor": "Agatha Christie",
+        "fecha": "January 1, 1934",
+        "precio": "7.99",
+        "calificacion": "4.20",
+        "generos": [
+            "Mystery",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Complete Maus",
+        "autor": "Art Spiegelman",
+        "fecha": "January 1, 1980",
+        "precio": 0,
+        "calificacion": "4.57",
+        "generos": [
+            "Graphic Novels",
+            "Comics",
+            "Nonfiction"
+        ]
+    },
+    {
+        "titulo": "Number the Stars",
+        "autor": "Lois Lowry",
+        "fecha": "April 24, 1989",
+        "precio": "0.00",
+        "calificacion": "4.18",
+        "generos": [
+            "Historical Fiction",
+            "Young Adult",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Sorry, we couldn\u2019t find the page you were looking for.",
+        "autor": "unknown",
+        "fecha": "unknown",
+        "precio": 0,
+        "calificacion": "unknown",
+        "generos": []
+    },
+    {
+        "titulo": "James and the Giant Peach",
+        "autor": "Roald Dahl",
+        "fecha": "November 1, 1961",
+        "precio": "8.99",
+        "calificacion": "4.03",
+        "generos": [
+            "Childrens",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Bury My Heart at Wounded Knee: An Indian History of the American West",
+        "autor": "Dee Brown",
+        "fecha": "April 1, 1970",
+        "precio": "0.00",
+        "calificacion": "4.24",
+        "generos": [
+            "History",
+            "Nonfiction",
+            "American History"
+        ]
+    },
+    {
+        "titulo": "The Ultimate Hitchhiker's Guide to the Galaxy",
+        "autor": "Douglas Adams",
+        "fecha": "January 17, 1996",
+        "precio": "13.99",
+        "calificacion": "4.38",
+        "generos": [
+            "Science Fiction",
+            "Fiction",
+            "Humor"
+        ]
+    },
+    {
+        "titulo": "Schindler's List",
+        "autor": "Thomas Keneally",
+        "fecha": "October 18, 1982",
+        "precio": "13.99",
+        "calificacion": "4.34",
+        "generos": [
+            "History",
+            "Nonfiction",
+            "Holocaust"
+        ]
+    },
+    {
+        "titulo": "The Autobiography of Malcolm X",
+        "autor": "Malcolm X",
+        "fecha": "October 29, 1965",
+        "precio": "5.99",
+        "calificacion": "4.35",
+        "generos": [
+            "Nonfiction",
+            "Biography",
+            "History"
+        ]
+    },
+    {
+        "titulo": "A Little Princess",
+        "autor": "Frances Hodgson Burnett",
+        "fecha": "January 1, 1905",
+        "precio": "2.99",
+        "calificacion": "4.22",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury",
+        "autor": "Bill Watterson",
+        "fecha": "January 1, 1988",
+        "precio": "0.00",
+        "calificacion": "4.64",
+        "generos": [
+            "Comics",
+            "Humor",
+            "Graphic Novels"
+        ]
+    },
+    {
+        "titulo": "Middlesex",
+        "autor": "Jeffrey Eugenides",
+        "fecha": "September 4, 2002",
+        "precio": "0.00",
+        "calificacion": "4.03",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
+        "autor": "Greg Mortenson",
+        "fecha": "March 2, 2006",
+        "precio": "12.99",
+        "calificacion": "3.66",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "A Child Called \"It\"",
+        "autor": "Dave Pelzer",
+        "fecha": "January 1, 1995",
+        "precio": "10.99",
+        "calificacion": "4.12",
+        "generos": [
+            "Nonfiction",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "titulo": "Into the Wild",
+        "autor": "Jon Krakauer",
+        "fecha": "January 13, 1996",
+        "precio": "9.99",
+        "calificacion": "4.01",
+        "generos": [
+            "Nonfiction",
+            "Biography",
+            "Adventure"
+        ]
+    },
+    {
+        "titulo": "Leaves of Grass",
+        "autor": "Walt Whitman",
+        "fecha": "July 4, 1855",
+        "precio": "15.99",
+        "calificacion": "4.12",
+        "generos": [
+            "Poetry",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Their Eyes Were Watching God",
+        "autor": "Zora Neale Hurston",
+        "fecha": "January 1, 1937",
+        "precio": "0.00",
+        "calificacion": "3.98",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Wind in the Willows",
+        "autor": "Kenneth Grahame",
+        "fecha": "October 8, 1908",
+        "precio": "2.99",
+        "calificacion": "4.00",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "Speak",
+        "autor": "Laurie Halse Anderson",
+        "fecha": "October 22, 1999",
+        "precio": "0.00",
+        "calificacion": "4.04",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "Peter Pan",
+        "autor": "J.M. Barrie",
+        "fecha": "December 27, 1911",
+        "precio": "3.87",
+        "calificacion": "4.04",
+        "generos": [
+            "Classics",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Republic",
+        "autor": "Plato",
+        "fecha": "January 1, 376",
+        "precio": "10.99",
+        "calificacion": "3.96",
+        "generos": [
+            "Philosophy",
+            "Classics",
+            "Nonfiction"
+        ]
+    },
+    {
+        "titulo": "A People's History of the United States",
+        "autor": "Howard Zinn",
+        "fecha": "January 1, 1980",
+        "precio": "0.00",
+        "calificacion": "4.07",
+        "generos": [
+            "History",
+            "Nonfiction",
+            "Politics"
+        ]
+    },
+    {
+        "titulo": "American Gods",
+        "autor": "Neil Gaiman",
+        "fecha": "June 19, 2001",
+        "precio": "9.99",
+        "calificacion": "4.11",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Mythology"
+        ]
+    },
+    {
+        "titulo": "Holes",
+        "autor": "Louis Sachar",
+        "fecha": "August 20, 1998",
+        "precio": "8.99",
+        "calificacion": "3.99",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Middle Grade"
+        ]
+    },
+    {
+        "titulo": "The Story of My Life",
+        "autor": "Helen Keller",
+        "fecha": "January 1, 1902",
+        "precio": "0.99",
+        "calificacion": "4.08",
+        "generos": [
+            "Nonfiction",
+            "Biography",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The World According to Garp",
+        "autor": "John Irving",
+        "fecha": "April 24, 1978",
+        "precio": "12.99",
+        "calificacion": "4.10",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Looking for Alaska",
+        "autor": "John Green",
+        "fecha": "March 3, 2005",
+        "precio": "8.99",
+        "calificacion": "3.97",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "The Secret Magdalene",
+        "autor": "Ki Longfellow",
+        "fecha": "January 1, 2005",
+        "precio": "9.99",
+        "calificacion": "4.16",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Religion"
+        ]
+    },
+    {
+        "titulo": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "autor": "Terry Pratchett",
+        "fecha": "January 1, 1990",
+        "precio": "9.99",
+        "calificacion": "4.25",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Humor"
+        ]
+    },
+    {
+        "titulo": "The Hound of the Baskervilles",
+        "autor": "Arthur Conan Doyle",
+        "fecha": "March 25, 1902",
+        "precio": "0.99",
+        "calificacion": "4.13",
+        "generos": [
+            "Classics",
+            "Mystery",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Things Fall Apart",
+        "autor": "Chinua Achebe",
+        "fecha": "January 1, 1958",
+        "precio": "11.99",
+        "calificacion": "3.73",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "A Short History of Nearly Everything",
+        "autor": "Bill Bryson",
+        "fecha": "January 1, 2003",
+        "precio": "12.99",
+        "calificacion": "4.21",
+        "generos": [
+            "Nonfiction",
+            "Science",
+            "History"
+        ]
+    },
+    {
+        "titulo": "The Addiction Manifesto",
+        "autor": "Jerry Weaver",
+        "fecha": "April 7, 2018",
+        "precio": "1.99",
+        "calificacion": "4.84",
+        "generos": [
+            "Nonfiction",
+            "Self Help",
+            "Memoir"
+        ]
+    },
+    {
+        "titulo": "A Brief History of Time",
+        "autor": "Stephen Hawking",
+        "fecha": "September 1, 1988",
+        "precio": "14.99",
+        "calificacion": "4.21",
+        "generos": [
+            "Science",
+            "Nonfiction",
+            "Physics"
+        ]
+    },
+    {
+        "titulo": "Island of the Blue Dolphins",
+        "autor": "Scott O'Dell",
+        "fecha": "September 9, 1960",
+        "precio": "0.00",
+        "calificacion": "3.86",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "\u0632\u0646\u062f\u06af\u06cc \u0645\u0647 \u0622\u0644\u0648\u062f \u067e\u0631\u06cc\u0627",
+        "autor": "\u0633\u06cc\u062f \u0645\u0631\u062a\u0636\u06cc \u0645\u0635\u0637\u0641\u0648\u06cc",
+        "fecha": "January 2, 2013",
+        "precio": 0,
+        "calificacion": "3.30",
+        "generos": [
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Cat's Cradle",
+        "autor": "Kurt Vonnegut Jr.",
+        "fecha": "January 1, 1963",
+        "precio": "9.99",
+        "calificacion": "4.16",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "A Farewell to Arms",
+        "autor": "Ernest Hemingway",
+        "fecha": "September 1, 1929",
+        "precio": "11.99",
+        "calificacion": "3.82",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Complete Fairy Tales",
+        "autor": "Hans Christian Andersen",
+        "fecha": "December 1, 1872",
+        "precio": "2.79",
+        "calificacion": "4.29",
+        "generos": [
+            "Classics",
+            "Fantasy",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Blindness",
+        "autor": "Jos\u00e9 Saramago",
+        "fecha": "January 1, 1995",
+        "precio": "0.00",
+        "calificacion": "4.17",
+        "generos": [
+            "Fiction",
+            "Dystopia",
+            "Science Fiction"
+        ]
+    },
+    {
+        "titulo": "A Separate Peace",
+        "autor": "John Knowles",
+        "fecha": "January 1, 1959",
+        "precio": "12.99",
+        "calificacion": "3.59",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Young Adult"
+        ]
+    },
+    {
+        "titulo": "The Raven",
+        "autor": "Edgar Allan Poe",
+        "fecha": "January 29, 1845",
+        "precio": "8.00",
+        "calificacion": "4.29",
+        "generos": [
+            "Poetry",
+            "Classics",
+            "Horror"
+        ]
+    },
+    {
+        "titulo": "The Shack",
+        "autor": "William Paul Young",
+        "fecha": "May 1, 2007",
+        "precio": "9.99",
+        "calificacion": "3.81",
+        "generos": [
+            "Fiction",
+            "Christian",
+            "Christian Fiction"
+        ]
+    },
+    {
+        "titulo": "Fried Green Tomatoes at the Whistle Stop Cafe",
+        "autor": "Fannie Flagg",
+        "fecha": "January 1, 1987",
+        "precio": "9.99",
+        "calificacion": "4.28",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "LGBT"
+        ]
+    },
+    {
+        "titulo": "Madame Bovary",
+        "autor": "Gustave Flaubert",
+        "fecha": "December 15, 1856",
+        "precio": "6.49",
+        "calificacion": "3.70",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "France"
+        ]
+    },
+    {
+        "titulo": "The God Delusion",
+        "autor": "Richard Dawkins",
+        "fecha": "October 1, 2006",
+        "precio": "0.00",
+        "calificacion": "3.90",
+        "generos": [
+            "Nonfiction",
+            "Religion",
+            "Science"
+        ]
+    },
+    {
+        "titulo": "The Joy Luck Club",
+        "autor": "Amy Tan",
+        "fecha": "January 1, 1989",
+        "precio": "13.99",
+        "calificacion": "3.97",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Tao Te Ching",
+        "autor": "Lao Tzu",
+        "fecha": "January 1, 401",
+        "precio": "9.99",
+        "calificacion": "4.30",
+        "generos": [
+            "Philosophy",
+            "Nonfiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Neverending Story",
+        "autor": "Michael Ende",
+        "fecha": "September 1, 1979",
+        "precio": "8.53",
+        "calificacion": "4.18",
+        "generos": [
+            "Fantasy",
+            "Classics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "Sophie's Choice",
+        "autor": "William Styron",
+        "fecha": "January 1, 1979",
+        "precio": "13.71",
+        "calificacion": "4.17",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "A Confederacy of Dunces",
+        "autor": "John Kennedy Toole",
+        "fecha": "May 1, 1980",
+        "precio": "8.48",
+        "calificacion": "3.89",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Humor"
+        ]
+    },
+    {
+        "titulo": "How to Win Friends and Influence People",
+        "autor": "Dale Carnegie",
+        "fecha": "October 1, 1936",
+        "precio": "14.99",
+        "calificacion": "4.22",
+        "generos": [
+            "Self Help",
+            "Nonfiction",
+            "Business"
+        ]
+    },
+    {
+        "titulo": "Angels & Demons",
+        "autor": "Dan Brown",
+        "fecha": "May 1, 2000",
+        "precio": "9.99",
+        "calificacion": "3.93",
+        "generos": [
+            "Fiction",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "titulo": "Never Let Me Go",
+        "autor": "Kazuo Ishiguro",
+        "fecha": "April 5, 2005",
+        "precio": "12.99",
+        "calificacion": "3.84",
+        "generos": [
+            "Fiction",
+            "Science Fiction",
+            "Dystopia"
+        ]
+    },
+    {
+        "titulo": "Guns, Germs, and Steel: The Fates of Human Societies",
+        "autor": "Jared Diamond",
+        "fecha": "May 9, 1997",
+        "precio": "9.99",
+        "calificacion": "4.04",
+        "generos": [
+            "History",
+            "Nonfiction",
+            "Science"
+        ]
+    },
+    {
+        "titulo": "Extremely Loud & Incredibly Close",
+        "autor": "Jonathan Safran Foer",
+        "fecha": "January 1, 2005",
+        "precio": "14.49",
+        "calificacion": "3.97",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "titulo": "Flow Down Like Silver",
+        "autor": "Ki Longfellow",
+        "fecha": "August 20, 2009",
+        "precio": "9.95",
+        "calificacion": "3.98",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Egypt"
+        ]
+    },
+    {
+        "titulo": "The Clan of the Cave Bear",
+        "autor": "Jean M. Auel",
+        "fecha": "January 1, 1980",
+        "precio": "8.99",
+        "calificacion": "4.09",
+        "generos": [
+            "Historical Fiction",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Tess of the D'Urbervilles",
+        "autor": "Thomas Hardy",
+        "fecha": "January 1, 1891",
+        "precio": "0.00",
+        "calificacion": "3.83",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "The Color Purple",
+        "autor": "Alice Walker",
+        "fecha": "June 1, 1982",
+        "precio": "0.00",
+        "calificacion": "4.26",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Feminism"
+        ]
+    },
+    {
+        "titulo": "Outlander",
+        "autor": "Diana Gabaldon",
+        "fecha": "June 1, 1991",
+        "precio": "5.99",
+        "calificacion": "4.26",
+        "generos": [
+            "Historical Fiction",
+            "Romance",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "The Tao of Pooh",
+        "autor": "Benjamin Hoff",
+        "fecha": "April 28, 1982",
+        "precio": "6.99",
+        "calificacion": "4.00",
+        "generos": [
+            "Philosophy",
+            "Nonfiction",
+            "Spirituality"
+        ]
+    },
+    {
+        "titulo": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "autor": "Stephen R. Covey",
+        "fecha": "January 1, 1988",
+        "precio": "0.00",
+        "calificacion": "4.15",
+        "generos": [
+            "Self Help",
+            "Nonfiction",
+            "Business"
+        ]
+    },
+    {
+        "titulo": "Eclipse",
+        "autor": "Stephenie Meyer",
+        "fecha": "August 7, 2007",
+        "precio": "10.99",
+        "calificacion": "3.72",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "One Day in the Life of Ivan Denisovich",
+        "autor": "Aleksandr Solzhenitsyn",
+        "fecha": "November 1, 1962",
+        "precio": "0.00",
+        "calificacion": "3.98",
+        "generos": [
+            "Fiction",
+            "Classics",
+            "Russia"
+        ]
+    },
+    {
+        "titulo": "A Light in the Attic",
+        "autor": "Shel Silverstein",
+        "fecha": "October 7, 1981",
+        "precio": "0.00",
+        "calificacion": "4.35",
+        "generos": [
+            "Poetry",
+            "Childrens",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "Ulysses",
+        "autor": "James Joyce",
+        "fecha": "ary 2, 1922",
+        "precio": "2.99",
+        "calificacion": "3.75",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "titulo": "Lonesome Dove",
+        "autor": "Larry McMurtry",
+        "fecha": "January 1, 1985",
+        "precio": "16.99",
+        "calificacion": "4.52",
+        "generos": [
+            "Fiction",
+            "Historical Fiction",
+            "Westerns"
+        ]
+    },
+    {
+        "titulo": "The Jungle",
+        "autor": "Upton Sinclair",
+        "fecha": "ary 25, 1905",
+        "precio": "0.00",
+        "calificacion": "3.76",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Phantom of the Opera",
+        "autor": "Gaston Leroux",
+        "fecha": "September 23, 1909",
+        "precio": "3.95",
+        "calificacion": "3.96",
+        "generos": [
+            "Fiction",
+            "Horror",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "Breaking Dawn",
+        "autor": "Stephenie Meyer",
+        "fecha": "August 2, 2008",
+        "precio": "10.99",
+        "calificacion": "3.73",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Romance"
+        ]
+    },
+    {
+        "titulo": "Nickel and Dimed",
+        "autor": "Barbara Ehrenreich",
+        "fecha": "May 8, 2001",
+        "precio": "0.00",
+        "calificacion": "3.65",
+        "generos": [
+            "Nonfiction",
+            "Sociology",
+            "Politics"
+        ]
+    },
+    {
+        "titulo": "Paradise Lost",
+        "autor": "John Milton",
+        "fecha": "January 1, 1667",
+        "precio": "0.99",
+        "calificacion": "3.84",
+        "generos": [
+            "Classics",
+            "Poetry",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Name of the Wind",
+        "autor": "Patrick Rothfuss",
+        "fecha": "March 27, 2007",
+        "precio": "9.99",
+        "calificacion": "4.52",
+        "generos": [
+            "Fantasy",
+            "Fiction",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "titulo": "Horton Hears a Who!",
+        "autor": "Dr. Seuss",
+        "fecha": "January 1, 1954",
+        "precio": "9.99",
+        "calificacion": "4.21",
+        "generos": [
+            "Childrens",
+            "Picture Books",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The God of Small Things",
+        "autor": "Arundhati Roy",
+        "fecha": "April 1, 1997",
+        "precio": "13.99",
+        "calificacion": "3.95",
+        "generos": [
+            "Fiction",
+            "India",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Green Mile",
+        "autor": "Stephen King",
+        "fecha": "January 1, 1996",
+        "precio": "9.99",
+        "calificacion": "4.47",
+        "generos": [
+            "Horror",
+            "Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "titulo": "Are You There God? It's Me, Margaret",
+        "autor": "Judy Blume",
+        "fecha": "January 1, 1970",
+        "precio": "9.99",
+        "calificacion": "3.94",
+        "generos": [
+            "Young Adult",
+            "Fiction",
+            "Childrens"
+        ]
+    },
+    {
+        "titulo": "All Creatures Great and Small / All Things Bright and Beautiful",
+        "autor": "James Herriot",
+        "fecha": "January 1, 1972",
+        "precio": "11.39",
+        "calificacion": "4.32",
+        "generos": [
+            "Nonfiction",
+            "Classics",
+            "Animals"
+        ]
+    },
+    {
+        "titulo": "Treasure Island",
+        "autor": "Robert Louis Stevenson",
+        "fecha": "January 28, 1882",
+        "precio": "0.99",
+        "calificacion": "3.84",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "titulo": "The House of the Spirits",
+        "autor": "Isabel Allende",
+        "fecha": "January 1, 1982",
+        "precio": "13.99",
+        "calificacion": "4.27",
+        "generos": [
+            "Fiction",
+            "Magical Realism",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "titulo": "The Shining",
+        "autor": "Stephen King",
+        "fecha": "January 28, 1977",
+        "precio": "9.99",
+        "calificacion": "4.26",
+        "generos": [
+            "Horror",
+            "Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "titulo": "The Iliad / The Odyssey",
+        "autor": "Homer",
+        "fecha": "January 1, 801",
+        "precio": "0.99",
+        "calificacion": "4.06",
+        "generos": [
+            "Classics",
+            "Fiction",
+            "Poetry"
+        ]
+    },
+    {
+        "titulo": "V for Vendetta",
+        "autor": "Alan Moore",
+        "fecha": "January 1, 1990",
+        "precio": "13.29",
+        "calificacion": "4.26",
+        "generos": [
+            "Graphic Novels",
+            "Comics",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "The Foundation Trilogy",
+        "autor": "Isaac Asimov",
+        "fecha": "January 1, 1953",
+        "precio": "9.99",
+        "calificacion": "4.41",
+        "generos": [
+            "Science Fiction",
+            "Fiction",
+            "Classics"
+        ]
+    },
+    {
+        "titulo": "The Complete Works",
+        "autor": "William Shakespeare",
+        "fecha": "January 1, 1623",
+        "precio": "1.99",
+        "calificacion": "4.47",
+        "generos": [
+            "Classics",
+            "Poetry",
+            "Fiction"
+        ]
+    },
+    {
+        "titulo": "New Moon",
+        "autor": "Stephenie Meyer",
+        "fecha": "September 6, 2006",
+        "precio": "10.99",
+        "calificacion": "3.59",
+        "generos": [
+            "Fantasy",
+            "Young Adult",
+            "Romance"
+        ]
+    }
+]
