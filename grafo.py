@@ -1,5 +1,4 @@
 import json
-import os
 from datetime import datetime
 
 
@@ -60,7 +59,7 @@ class Grafo:
         for nodo, libros_nodo in self.adj_list.items():
             if nodo == nombre_libro:
                 for i in libros_nodo:
-                    if i[1] == "genero_lib":
+                    if i[1] == "g_lib":
                         genero = i[0]
                     if i[1] == "fecha":
                         anio = i[0].year
@@ -74,7 +73,7 @@ class Grafo:
         for nodo, valor in self.adj_list.items():
             if nodo == genero:
                 for i in valor:
-                    if i[1] == "genero_lib":
+                    if i[1] == "g_lib":
                         libros_genero.append(i[0])
 
         fechas = {}
@@ -99,7 +98,7 @@ class Grafo:
         for nodo, autor in self.adj_list.items():
             if nodo == genero:
                 for i in autor:
-                    if i[1] == "genero_aut":
+                    if i[1] == "g_aut":
                         if i[0] in dicc_autores:
                             dicc_autores[i[0]] += 1
                         else:
@@ -122,7 +121,7 @@ class Grafo:
             for nodo, libros in self.adj_list.items():
                 if nodo == genero:
                     for libro in libros:
-                        if libro[1] == "genero_lib":
+                        if libro[1] == "g_lib":
                             libros_genero.append(libro[0])
 
         if not libros_genero:
@@ -146,7 +145,7 @@ class Grafo:
             for nodo, libros in self.adj_list.items():
                 if nodo == genero:
                     for libro in libros:
-                        if libro[1] == "genero_lib":
+                        if libro[1] == "g_lib":
                             libros_genero.append(libro[0])
 
         if not libros_genero:
@@ -184,9 +183,9 @@ class Grafo:
                 conv_fecha = datetime.strptime(fecha, "%B %d, %Y")
                 conv_fecha = conv_fecha.strftime("%d-%m-%Y")
                 libro.fecha = datetime.strptime(conv_fecha, "%d-%m-%Y").date()
-                #anio = datetime.strptime(conv_fecha, "%d-%m-%Y").date().year
-                #decada = (anio//10) * 10
-                #libro.fecha = decada
+                # anio = datetime.strptime(conv_fecha, "%d-%m-%Y").date().year
+                # decada = (anio//10) * 10
+                # libro.fecha = decada
             except ValueError:
                 libro.fecha = None
 
@@ -201,24 +200,24 @@ class Grafo:
 
         for obj_libro in libros:
             for genero in obj_libro.generos:
-                self.nueva_arista(genero, obj_libro.autor, tipo="genero_aut")
-                self.nueva_arista(genero, obj_libro.titulo, bid=True, tipo="genero_lib")
+                self.nueva_arista(genero, obj_libro.autor, tipo="g_aut")
+                self.nueva_arista(genero, obj_libro.titulo, bid=True, tipo="g_lib")
             self.nueva_arista(obj_libro.autor, obj_libro.titulo, tipo="escribio")
             self.nueva_arista(obj_libro.titulo, obj_libro.fecha, tipo="fecha")
             self.nueva_arista(obj_libro.titulo, obj_libro.precio, tipo="precio")
             self.nueva_arista(obj_libro.titulo, obj_libro.calificacion, tipo="calificacion")
 
-        #for i, j in self.adj_list.items():
-         #  print(i, j)
+        # for i, j in self.adj_list.items():
+        # print(i, j)
 
 
 g = Grafo()
 g.crear_grafo()
-#g.recomendar_n_libros("To Kill a Mockingbird")
-#g.recomendar_libros_puntaje(4, "Biography", "Classics", "Fiction")
-#g.listar_autores_genero_x("Biography")
-#g.recomendar_lista_compras(100, "Biography", "Classics", "Fiction")
-#g.recomendar_n_libros("To Kill a Mockingbird")
+# g.recomendar_n_libros("To Kill a Mockingbird")
+# g.recomendar_libros_puntaje(4, "Biography", "Classics", "Fiction")
+# g.listar_autores_genero_x("Biography")
+# g.recomendar_lista_compras(100, "Biography", "Classics", "Fiction")
+# g.recomendar_n_libros("To Kill a Mockingbird")
 
 
 def menu():
