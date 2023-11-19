@@ -208,7 +208,7 @@ class Grafo:
             self.nueva_arista(obj_libro.titulo, obj_libro.calificacion, tipo="calificacion")
 
         # for i, j in self.adj_list.items():
-        # print(i, j)
+            # print(f"'{i}':{j},")
 
 
 g = Grafo()
